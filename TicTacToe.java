@@ -1,4 +1,3 @@
-//khela sesh kora baki
 import java.util.Scanner;
 import java.util.Random;
 public class TicTacToe{
